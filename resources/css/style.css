@@ -1,7 +1,6 @@
 body{
   font-family: verdana;
   text-align: center;
-  background-color: black;
 }
 h1{
   font-weight: normal;
@@ -23,7 +22,8 @@ p{
   font-size: 21px;
   color: gray;
 }
-.c{
+h6{
   text-align: Right
   color: gray;
+
 }
